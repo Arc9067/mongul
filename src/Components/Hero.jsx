@@ -3,9 +3,9 @@ import Line from "../assets/line.png";
 
 const Hero = () => {
   return (
-    <section className="py-[150px] w-full hero flex justify-center items-center ">
+    <section className="py-[150px] w-full hro flex justify-center items-center ">
       <div className="container flex flex-col gap-5">
-        <h1 className="text-9xl uppercase font-bold text-center">mongul</h1>
+        <h1 className="text-9xl  uppercase font-bold text-center">mongul</h1>
         <p className="text-3xl max-w-[700px] mx-auto text-center">
           an alien world-conqueror and the leader of Warworld. His brutal and
           merciless nature make him an enemy to Superman and a threat to the
