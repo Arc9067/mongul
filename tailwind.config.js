@@ -14,9 +14,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        Clash: ["Clash Display", "sans-serif"],
-        Maven_Pro: ["Maven Pro", "sans-serif"],
-        Source_Sans_Pro: ["Source Sans Pro", "sans-serif"],
+        primary: ["Primary", "sans-serif"],
       },
       colors: {
         primary: "#F6DB68",

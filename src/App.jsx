@@ -4,7 +4,7 @@ import Hero from "./Components/Hero";
 
 const App = () => {
   return (
-    <div className="min-h-screen w-full relative bg-primary font-Clash">
+    <div className="min-h-screen relative w-full font-primary text-3xl bg-black text-white">
       <Header />
       <Hero />
     </div>
